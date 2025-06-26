@@ -20,8 +20,8 @@ It is ideal for portfolio researchers, market students, and entry-level data ana
 
 ## 📸 Preview
 
-![NIFTY Dashboard](./screenshots/Screenshot%20%2896%29.png)
-![InvestorPro Dashboard](./screenshots/Screenshot%20%2897%29.png)
+![NIFTY Dashboard](https://github.com/Data-eng15/Data-Analysis-Portfolio/raw/main/1-Finance-Stock-Market-Analysis/scrrenshots/Screenshot%20(96).png)
+![InvestorPro Dashboard](https://github.com/Data-eng15/Data-Analysis-Portfolio/raw/main/1-Finance-Stock-Market-Analysis/scrrenshots/Screenshot%20(97).png)
 
 
 
