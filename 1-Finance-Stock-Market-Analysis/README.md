@@ -34,11 +34,7 @@ NIFTY50_dashboard/
 │   ├── loader.py
 │   ├── technicals.py
 │   ├── plots.py
-│   └── eda_utils.py
-├── notebooks/
-│   └── 01_Trend_Analysis.ipynb
-├── dashboard/
-│   └── app.py
+
 └── README.md
 ```
 
@@ -75,6 +71,6 @@ Ensure your `NIFTY50_all.csv` is located in the `data/` folder.
 ## 👤 Author
 
 Built with 🔍 by Soham Dharne 
-[GitHub](https://github.com/Data-eng15) • [LinkedIn](https://linkedin.com/in/yourname)
+[GitHub](https://github.com/Data-eng15) • [LinkedIn](https://www.linkedin.com/in/dharnesoham/)
 
 ---
