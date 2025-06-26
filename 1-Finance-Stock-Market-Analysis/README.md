@@ -20,6 +20,9 @@ It is ideal for portfolio researchers, market students, and entry-level data ana
 
 ## 📸 Preview
 
+![NIFTY Dashboard](./screenshots/Screenshot%20%2896%29.png)
+![InvestorPro Dashboard](./screenshots/Screenshot%20%2897%29.png)
+
 
 
 ---
