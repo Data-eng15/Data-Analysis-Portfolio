@@ -28,43 +28,24 @@ Strategies tailored to each customer segment
 
 📸 Preview
 
+https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(1).png
+https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(2).png
+https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(3).png
 
 
-
-
-
-📂 Project Structure
-kotlin
-Copy
-Edit
-Marketing_Customer_Segmentation/
-├── data/
-│   └── Mall_Customers.csv
-├── app.py
-├── requirements.txt
-└── README.md
 ▶️ How to Run
 1. Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 2. Launch Streamlit app
-bash
-Copy
-Edit
+
 streamlit run app.py
 Ensure your Mall_Customers.csv is located in the data/ folder.
 
 📚 Technologies Used
-Python
 
 pandas, numpy
-
 matplotlib, seaborn
-
 scikit-learn
-
 Streamlit
 
 💡 Business Insights Summary
