@@ -28,9 +28,9 @@ Strategies tailored to each customer segment
 
 📸 Preview
 
-https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(1).png
-https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(2).png
-https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(3).png
+![Objective](https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(1).png)
+![Business Insights](https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(2).png)
+![Annual Income Distribuation](https://github.com/Data-eng15/Data-Analysis-Portfolio/blob/main/2-Marketing-Customer-Segmentation/Screenshots/Screenshot%20(3).png)
 
 
 ▶️ How to Run
